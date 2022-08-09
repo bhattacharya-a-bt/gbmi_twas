@@ -1,4 +1,5 @@
 # gbmi_twas
+[![DOI](https://zenodo.org/badge/431194224.svg)](https://zenodo.org/badge/latestdoi/431194224)
 TWAS scripts for Global Biobank Meta-analysis Initiative
 
 The `Scripts` folder contains the following:
